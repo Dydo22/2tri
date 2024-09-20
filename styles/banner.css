@@ -23,4 +23,9 @@
     color: var(--branco);
     background: url("../AluraBooks/Lupa.svg") no-repeat;
     background-position: 1em;
+
+    .banner__pesquisa {
+      background-color: transparent;
+      border: 1px solid var(--branco);
+    }
   }
